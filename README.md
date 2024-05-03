@@ -1,5 +1,5 @@
 # Credit-Card-Fraud-Detection
-Capstone Project
+## Capstone Project
 
 ## Problem Statement:
 The problem statement for this project is to build a classification model to predict whether a transaction is fraudulent or not.
